@@ -1,11 +1,11 @@
 {
-    "name": "fatihkurcenli_website",
-    "short_name": "fatihkurcenli_website",
-    "start_url": ".",
+    "name": "Fatih Kurçenli",
+    "short_name": "Fatih Kurçenli",
+    "start_url": "/index.html",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Mobile Developer",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
