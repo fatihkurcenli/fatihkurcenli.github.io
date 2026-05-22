@@ -24,12 +24,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Detect project type
+        id: project
+        run: |
+          if [ -f package.json ]; then
+            echo "has_next_source=true" >> "$GITHUB_OUTPUT"
+            echo "publish_path=./out" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_next_source=false" >> "$GITHUB_OUTPUT"
+            echo "publish_path=." >> "$GITHUB_OUTPUT"
+          fi
+
       - name: Setup Node.js
+        if: steps.project.outputs.has_next_source == 'true'
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
       - name: Install dependencies
+        if: steps.project.outputs.has_next_source == 'true'
         run: |
           if [ -f package-lock.json ]; then
             npm ci
@@ -41,6 +54,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build static site
+        if: steps.project.outputs.has_next_source == 'true'
         run: npm run build
         env:
           NEXT_TELEMETRY_DISABLED: 1
@@ -48,7 +62,7 @@ jobs:
       - name: Upload GitHub Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
-          path: ./out
+          path: ${{ steps.project.outputs.publish_path }}
 
   deploy:
     runs-on: ubuntu-latest
