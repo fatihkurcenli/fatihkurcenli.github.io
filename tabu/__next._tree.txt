@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/0he9ctqy0.mhk.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"tabu","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"PGT_BO3DGyroOBYhbZaCY"}

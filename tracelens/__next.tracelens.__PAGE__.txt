@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[78417,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/10pk-idq~xsvy.js","/_next/static/chunks/0t9wwy1tw4at7.js","/_next/static/chunks/0b1r5u-efs6hh.js"],"AppShowcase"]
+3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/10pk-idq~xsvy.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"projectKey":"traceLens","slug":"tracelens","appName":"TraceLens: Art Guide","iconUrl":"https://play-lh.googleusercontent.com/4t1fAR8wYgGAwDKnmeFqUpGnGUwkDefKDff1psgS6OQZkR68Pa4230xA_un_BfrMIcNsWHd-C8iopZ_FRo5uKA=s256","category":"Art and design","href":"https://play.google.com/store/apps/details?id=com.autumnsun.ar.trace.drawing","platform":"play","status":"live","screenshots":[]}],[["$","script","script-0",{"src":"/_next/static/chunks/0t9wwy1tw4at7.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0b1r5u-efs6hh.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"PGT_BO3DGyroOBYhbZaCY"}
+5:null
