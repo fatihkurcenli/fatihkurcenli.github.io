@@ -1,0 +1,24 @@
+{
+  "store": "https://play.google.com/store/apps/details?id=com.autumnsun.easy.pdf.scanner&hl=en",
+  "icon": "https://play-lh.googleusercontent.com/rcZaugN71I3Ijz93JMe32YtsI6oiQmAqICqLT8PyHBAbQ7eX1Ipm5u8B1InAEARUWMfJuw6Um_gciK4J6EdYIw=s256",
+  "screenshots": [
+    {
+      "file": "screen-1.webp",
+      "url": "https://play-lh.googleusercontent.com/D4rvoDHRqv_SRyD4rIociEb6xrpzLZ8blMCeN-6yePhFRrN1KNz8H_mRovryKgZ-5wRcw8xzBiDTbYFIT3yiKw=w600"
+    },
+    {
+      "file": "screen-2.webp",
+      "url": "https://play-lh.googleusercontent.com/bXEF3xN0zfNHzZuYgbWlnG-IgBUSsOu4lqMZzxBHes6dIVLva40JTXDlq5YJxSV_oIFMIONk5b-G2uxetrK59A=w600"
+    },
+    {
+      "file": "screen-3.webp",
+      "url": "https://play-lh.googleusercontent.com/aXuu5aHNRhYytkBnxCrCJWWv1u56SPrATeOlA0HkQnAgZDAmNaXG5kzFAsfreXx1QWcBj9o34fzYQjvJPvCeUw=w600"
+    }
+  ],
+  "generatedArtwork": {
+    "source": "exec-a89a5f0d-9637-481d-bb58-7299a627917b.png",
+    "tool": "Built-in image_gen",
+    "prompts": "../artwork-prompts.json",
+    "illustrative": true
+  }
+}

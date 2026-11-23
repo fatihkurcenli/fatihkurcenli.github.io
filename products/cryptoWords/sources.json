@@ -1,0 +1,76 @@
+{
+  "store": "https://play.google.com/store/apps/details?id=com.autumnsun.crypto.words&hl=en",
+  "icon": "https://play-lh.googleusercontent.com/bFBOqIlTCat2a-purjvhuzcNOfq6gB4ToFyJVsILKfuh9A00Yz42y0t36dmVbkoU1oZZlZhgv-AcKHXQxiUKHw=s256",
+  "screenshots": [
+    {
+      "file": "screen-1.webp",
+      "url": "https://play-lh.googleusercontent.com/aIF3JeEbViNlCeYTuIemAvzIGOLzyLHOy5rx8pZlsAyV2Ucxy3fkyT5ZfWzHj03PVU8ToXUi8SJQEp_TajosqQ=w600"
+    },
+    {
+      "file": "screen-2.webp",
+      "url": "https://play-lh.googleusercontent.com/ahqipRzmXEoGy4_5N_sFmsc2QD2YgFDZzVdROPIGMxroOiyFXuQRH5GVA-bj_Oob8j6QeCjrK249_hZvoI5qPHo=w600"
+    },
+    {
+      "file": "screen-3.webp",
+      "url": "https://play-lh.googleusercontent.com/Fo_aanCOQJDPVo4VhtOPKOGRJsg3Iy9uDlbSsg6oRKCXt8D2Aq2hW3rn09sxF8CtLKxLoe37gbLhdDBIzX7VRA=w600"
+    },
+    {
+      "file": "screen-4.webp",
+      "url": "https://play-lh.googleusercontent.com/Y-WfJOb9eCvLOTdVle3TdAq_RatuCuiOfTQXcmJ2t_5g1DoymnzXYMKWaR7ZuY-O-ALg5oS-nBBc79AaydpB=w600"
+    },
+    {
+      "file": "screen-5.webp",
+      "url": "https://play-lh.googleusercontent.com/ZXkJ4Ptz2-SbftJRgRJ0ajVbwYZx-XnCueuERtWOaOrNZ8ypdhTg0JoFvjBS3zzTD7DVg6WrjA4j6CX57Y1n=w600"
+    }
+  ],
+  "generatedArtwork": {
+    "source": "exec-e93b27ca-bae2-4e61-82f9-4f59dc8c263a.png",
+    "tool": "Built-in image_gen",
+    "prompt": "hero-wordgame-v2-prompt.txt",
+    "responsivePrefix": "hero-wordgame-v2",
+    "illustrative": true,
+    "foreground": "Unmodified official iOS screenshot ios-screen-2.webp, cropped with CSS"
+  },
+  "ios": {
+    "store": "https://apps.apple.com/tr/app/crypto-words/id6791241044?l=tr",
+    "device": "iPhone",
+    "screenshots": [
+      {
+        "file": "ios-screen-1.webp",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/52/77/0d/52770d9d-69b2-1baa-8aea-75a61462eb2d/01-hero.png/600x1300bb.webp",
+        "width": 600,
+        "height": 1298
+      },
+      {
+        "file": "ios-screen-2.webp",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ee/5d/b4/ee5db4fb-f862-2331-ab27-e40e5a62055e/02-device-bottom.png/600x1300bb.webp",
+        "width": 600,
+        "height": 1298
+      },
+      {
+        "file": "ios-screen-3.webp",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/e0/40/f8/e040f8c0-4fc4-a093-a520-3cbc5b449164/04-device-top.png/600x1300bb.webp",
+        "width": 600,
+        "height": 1298
+      },
+      {
+        "file": "ios-screen-4.webp",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/39/5a/75/395a75e2-0ab7-b005-ddcd-698a5ceb7b8d/03-two-devices.png/600x1300bb.webp",
+        "width": 600,
+        "height": 1298
+      },
+      {
+        "file": "ios-screen-5.webp",
+        "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/d1/81/ced181a9-e175-4fa3-c80c-77f534ced2e3/05-no-device.png/600x1300bb.webp",
+        "width": 600,
+        "height": 1298
+      }
+    ]
+  },
+  "previousGeneratedArtwork": {
+    "source": "exec-e1488b69-5403-414e-adfa-363d992929ae.png",
+    "tool": "Built-in image_gen",
+    "prompts": "../artwork-prompts.json",
+    "illustrative": true
+  }
+}

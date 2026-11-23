@@ -1,0 +1,32 @@
+{
+  "store": "https://apps.apple.com/us/app/nostalens-vintage-camera/id6798334937",
+  "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/97/80/5997800d-24e7-bf36-39cf-2a980053eceb/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
+  "screenshots": [
+    {
+      "file": "screen-1.webp",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/a6/e6/11/a6e61129-c69e-71e7-542d-cea5537ba919/01-hero.png/640x960bb.jpg"
+    },
+    {
+      "file": "screen-2.webp",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/64/2f/9a/642f9a7c-1583-e607-9038-c3f90e46b0d3/02-no-device.png/640x960bb.jpg"
+    },
+    {
+      "file": "screen-3.webp",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c8/8a/41/c88a41e7-f853-ac39-af21-20524498075a/03-device-bottom.png/640x960bb.jpg"
+    },
+    {
+      "file": "screen-4.webp",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b9/d2/c8/b9d2c88c-08b0-5a60-8fe9-525f389a4557/04-device-top.png/640x960bb.jpg"
+    },
+    {
+      "file": "screen-5.webp",
+      "url": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/88/62/9f/88629f30-9130-f8d1-0a08-f8ee808a4913/05-no-device.png/640x960bb.jpg"
+    }
+  ],
+  "generatedArtwork": {
+    "source": "exec-997f9c15-5a74-4568-9560-6f5990eaf377.png",
+    "tool": "Built-in image_gen",
+    "prompts": "../artwork-prompts.json",
+    "illustrative": true
+  }
+}

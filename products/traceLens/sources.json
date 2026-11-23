@@ -1,0 +1,33 @@
+{
+  "store": "https://play.google.com/store/apps/details?id=com.autumnsun.ar.trace.drawing&hl=en",
+  "icon": "https://play-lh.googleusercontent.com/4t1fAR8wYgGAwDKnmeFqUpGnGUwkDefKDff1psgS6OQZkR68Pa4230xA_un_BfrMIcNsWHd-C8iopZ_FRo5uKA=s256",
+  "screenshots": [
+    {
+      "file": "screen-1.webp",
+      "url": "https://play-lh.googleusercontent.com/O7H43LXgRKjlBdAJbnV8QfAvWQ1vLG4wYJraFU0DMMpfwOLBhdOJdaeTRFodivcur6BcCN2QXS3A9gCwpWD6=w600"
+    },
+    {
+      "file": "screen-2.webp",
+      "url": "https://play-lh.googleusercontent.com/V-BVk_U-hR6qsxBfUw1EdAhKNSlAYKUAmYHoFtjy9sMIM1nuDmDzNN2dRHHU_sK9wfED1KnMNpuV7hcafqDEPg=w600"
+    },
+    {
+      "file": "screen-3.webp",
+      "url": "https://play-lh.googleusercontent.com/LQID6qatX-Z1nz6BxriEhm0jbdj0gcZQBITfvnp1atF4ZtiKn1bUJkz0Hsvd40d4wATbyjqKgcikeVmjQh53A34=w600"
+    },
+    {
+      "file": "screen-4.webp",
+      "url": "https://play-lh.googleusercontent.com/qSoBpcxj0-qXmhgkC3R7GDH8Ngi90hQNYrywH_83OGXqDIkLf41QsddXroQuMe7yFuKIwjqBYM8x5TN-hmRjzbc=w600"
+    },
+    {
+      "file": "screen-5.webp",
+      "url": "https://play-lh.googleusercontent.com/T48U5_0YBpMcgBmA50XiEJOjQXbgwmJEPXZAFS8hb8C-n7Ufkxk2UlpSvkxapEgZk-S4JqhiX8T1jGKg0PsS=w600"
+    }
+  ],
+  "generatedArtwork": {
+    "source": "exec-4bd203ce-419b-4f9c-873a-9c32a0ad2a03.png",
+    "contourSource": "exec-ecba7ba0-fd3f-4542-acdd-11cbf2de2ee7.png",
+    "tool": "Built-in image_gen",
+    "prompts": "../artwork-prompts.json",
+    "illustrative": true
+  }
+}
